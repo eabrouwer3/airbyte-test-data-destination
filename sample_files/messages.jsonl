@@ -1,0 +1,15 @@
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 1208, "uid": "1df9b37e-cd65-4962-8a35-e3706becffc9", "brand": "Sharp", "equipment": "Vacuum cleaner"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 6426, "uid": "d7c56648-c8c5-485b-a580-07ff16a968c3", "brand": "Bosch", "equipment": "Combo washer dryer"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 576, "uid": "4cb20e8b-458d-444e-a300-97b4261667fe", "brand": "Samsung", "equipment": "Clothes iron"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 4634, "uid": "07c3257d-27f0-464b-aaa9-92a40b4494a4", "brand": "IKEA", "equipment": "Bachelor griller"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 7026, "uid": "fdeb20d2-4fe5-48f3-b312-6431a9004ec9", "brand": "Amana", "equipment": "Go-to-bed matchbox"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 8583, "uid": "17ab5886-fffd-4748-8ae2-c6d33291ee42", "brand": "KitchenAid", "equipment": "Paper shredder"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 88, "uid": "855588da-3b83-4313-9213-a3b28abaab56", "brand": "Amana", "equipment": "Clothes dryer"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 3744, "uid": "a7c2a564-f362-40b5-b8f9-8ae80687dc33", "brand": "Franke", "equipment": "Microwave oven"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 8215, "uid": "33647c4b-d1a4-4721-a354-b53563fc7633", "brand": "Admiral", "equipment": "Domestic robot"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 7278, "uid": "55858a12-c689-4e92-a262-e49ec53ff627", "brand": "Amana", "equipment": "Air purifier"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 7631, "uid": "0430d70c-4cd8-47f8-836a-0b558e0ea1f8", "brand": "KitchenAid", "equipment": "Patio heater"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 7128, "uid": "a11781e2-d204-4ab4-b7a0-3143c4b94c7a", "brand": "Siemens", "equipment": "Go-to-bed matchbox"}, "emitted_at": 1666750635000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 84, "uid": "b1c24145-d77e-4520-8a3a-c1d6add1fb9c", "brand": "Fagor", "equipment": "Oven"}, "emitted_at": 1666750636000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 1556, "uid": "37aa33d1-f516-4dcc-b408-8bb0daa9f3df", "brand": "Admiral", "equipment": "Oven"}, "emitted_at": 1666750636000}}
+{"type": "RECORD", "record": {"stream": "appliances", "data": {"id": 8743, "uid": "ab880561-16f3-4c11-ad48-1435719076b0", "brand": "Bosch", "equipment": "Oil heater"}, "emitted_at": 1666750636000}}
